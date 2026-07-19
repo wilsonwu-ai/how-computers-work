@@ -5,7 +5,7 @@ Learning the machine from the ground up, in public. Short, diagram-heavy explain
 ## Notes in this series
 
 - **Note 01 — What is Computer Architecture?** (below) — the abstraction stack, ISA vs microarchitecture, and why the same chip idea looks different in a phone and a data center.
-- *Note 02 — How do computers read code? (coming next)* — how the text you type becomes instructions a CPU runs.
+- **[Note 02 — How do computers read code?](how-code-runs.md)** — how source code becomes machine instructions: the compiler pipeline, jumps and flags, the call stack, interpreters and bytecode, and why one binary doesn't run everywhere.
 
 **Related repos:** [Inference Engineering (how LLM serving works) →](https://github.com/wilsonwu-ai/inference-engineering) · [AI Engineer roadmap →](https://github.com/wilsonwu-ai/ai-engineer-roadmap)
 
